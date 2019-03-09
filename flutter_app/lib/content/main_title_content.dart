@@ -153,7 +153,7 @@ class _MainTitleContentState extends State<MainTitleContent>
                       left: 35.0, top: 75.0, right: 30.0, bottom: 20.0),
                   color: Color(0xFF1B364F),
                   child: RichText(
-                    maxLines: 2,
+                    maxLines: 3,
                     text: TextSpan(
                       children: [
                         TextSpan(
@@ -165,12 +165,21 @@ class _MainTitleContentState extends State<MainTitleContent>
                                 fontSize: _defaultFontSize *
                                     _flutterLiveScaleTransition.value)),
                         TextSpan(
-                            text: ' ‘18',
+                            text: ' Extended',
                             style: TextStyle().copyWith(
                                 color: Color(0xFF13B9FD),
                                 height: widget.lineHeight,
                                 fontFamily: 'GoogleSans',
                                 fontSize: _defaultFontSize *
+                                    _flutterLiveScaleTransition.value)),
+                        TextSpan(
+                            text: '\nKHI',
+                            style: TextStyle().copyWith(
+                                color: Color(0xFF13B9FD),
+                                height: widget.lineHeight,
+                                fontFamily: 'GoogleSans',
+                                fontSize: _defaultFontSize *
+                                    0.6 *
                                     _flutterLiveScaleTransition.value)),
                       ],
                     ),

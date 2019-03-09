@@ -72,35 +72,57 @@ class _TeamPhotosContentState extends State<TeamPhotosContent> {
 
   @override
   Widget build(BuildContext context) {
-    return Column(
-      children: List<Widget>.generate(widget.columnCount, (currCol) {
-        return Expanded(
-          child: Row(
-            children: List<Widget>.generate(widget.rowCount, (currRow) {
-              return Expanded(
-                child: Container(
-                  decoration: BoxDecoration(
-                    color: widget.bgColors[
-                        (currCol * widget.rowCount + currRow) %
-                            widget.bgColors.length],
-                  ),
-                  child: !widget.isPreview
-                      ? ConstrainedBox(
-                          constraints: BoxConstraints.expand(),
-                          child: TeamPhotoImage(
-                            widget.contentMap,
-                            teamPhotosImagePathSupplier:
-                                _teamPhotosImagePathSupplier,
-                            random: widget.random,
-                          ),
-                        )
-                      : Container(),
+    return Stack(
+      fit: StackFit.expand,
+      children: <Widget>[
+        Column(
+          children: List<Widget>.generate(widget.columnCount, (currCol) {
+            return Expanded(
+              child: Row(
+                children: List<Widget>.generate(widget.rowCount, (currRow) {
+                  return Expanded(
+                    child: Container(
+                      decoration: BoxDecoration(
+                        color: widget.bgColors[
+                            (currCol * widget.rowCount + currRow) %
+                                widget.bgColors.length],
+                      ),
+                      child: !widget.isPreview
+                          ? ConstrainedBox(
+                              constraints: BoxConstraints.expand(),
+                              child: TeamPhotoImage(
+                                widget.contentMap,
+                                teamPhotosImagePathSupplier:
+                                    _teamPhotosImagePathSupplier,
+                                random: widget.random,
+                              ),
+                            )
+                          : Container(),
+                    ),
+                  );
+                }),
+              ),
+            );
+          }),
+        ),
+        Positioned(
+          child: FittedBox(
+            fit: BoxFit.scaleDown,
+            child: Container(
+              padding: const EdgeInsets.symmetric(horizontal: 40, vertical: 24),
+              color: Color(0xFF1B364F),
+              child: Text(
+                'Team',
+                style: TextStyle().copyWith(
+                  color: Colors.white,
+                  fontFamily: 'GoogleSans',
+                  fontSize: 80,
                 ),
-              );
-            }),
+              ),
+            ),
           ),
-        );
-      }),
+        )
+      ],
     );
   }
 }

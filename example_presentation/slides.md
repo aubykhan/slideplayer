@@ -1,0 +1,27 @@
+# Opening keynote
+- Welcome
+- About team
+- Flutter characteristics
+- Announcing Flutter 1.2
+  - What's new
+  - How to upgrade
+    - Make sure that you're on stable channel
+    - Run `flutter upgrade`
+- Announcing Dart 2.1
+  - What's new
+- Firebase for Flutter
+- DartDevTools
+  - How to get
+  - How to use
+- Flutter stats
+- Flutter design
+- Flutter development
+# Ending keynote
+- Flutter is everywhere
+  - Flutter desktop embedding
+- Previewing Hummingbird
+- Flutter Create
+- Flutter Karachi stuff
+  - Encourage more volunteers
+  - Announce YouTube channel
+  - Announce Gitter channel
