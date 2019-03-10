@@ -40,7 +40,7 @@
             "ようこそ",
             "환영",
             "chào mừng"
-           ]
+          ]
         }
       ]
     },
@@ -159,49 +159,49 @@
             "subtitle": "No compromises for\nyour designers",
             "inner_bg_color": "0x00000000",
             "background_positions": {
-                "collapsed": {
-                  "top": 0.0,
-                  "left": 0.0
-                },
-                "beautiful": {
-                  "top": 0.0,
-                  "left": 0.0
-                },
-                "fast": {
-                  "top": -1080.0,
-                  "left": 0.0
-                },
-                "productive": {
-                  "top": 0.0,
-                  "left": -1920.0
-                },
-                "open": {
-                  "top": -1080.0,
-                  "left": -1920.0
-                }
+              "collapsed": {
+                "top": 0.0,
+                "left": 0.0
               },
-              "title_positions": {
-                "collapsed": {
-                  "top": 200.0,
-                  "left": 250.0
-                },
-                "beautiful": {
-                  "top": 100.0,
-                  "left": -100.0
-                },
-                "fast": {
-                  "top": -880.0,
-                  "left": 250.0
-                },
-                "productive": {
-                  "top": 200.0,
-                  "left": -1670.0
-                },
-                "open": {
-                  "top": -880.0,
-                  "left": -1670.0
-                }
+              "beautiful": {
+                "top": 0.0,
+                "left": 0.0
               },
+              "fast": {
+                "top": -1080.0,
+                "left": 0.0
+              },
+              "productive": {
+                "top": 0.0,
+                "left": -1920.0
+              },
+              "open": {
+                "top": -1080.0,
+                "left": -1920.0
+              }
+            },
+            "title_positions": {
+              "collapsed": {
+                "top": 200.0,
+                "left": 250.0
+              },
+              "beautiful": {
+                "top": 100.0,
+                "left": -100.0
+              },
+              "fast": {
+                "top": -880.0,
+                "left": 250.0
+              },
+              "productive": {
+                "top": 200.0,
+                "left": -1670.0
+              },
+              "open": {
+                "top": -880.0,
+                "left": -1670.0
+              }
+            },
             "shell_image_offset": {
               "top": 0.0,
               "left": 0.0
@@ -229,49 +229,49 @@
             "subtitle": "Take the speed limiter\noff your app",
             "inner_bg_color": "0x00000000",
             "background_positions": {
-                "collapsed": {
-                  "top": 540.0,
-                  "left": 0.0
-                },
-                "beautiful": {
-                  "top": 540.0,
-                  "left": 0.0
-                },
-                "fast": {
-                  "top": -540.0,
-                  "left": 0.0
-                },
-                "productive": {
-                  "top": 540.0,
-                  "left": -1920.0
-                },
-                "open": {
-                  "top": -540.0,
-                  "left": -1920.0
-                }
+              "collapsed": {
+                "top": 540.0,
+                "left": 0.0
               },
-              "title_positions": {
-                "collapsed": {
-                  "top": 750.0,
-                  "left": 350.0
-                },
-                "beautiful": {
-                  "top": 750.0,
-                  "left": 350.0
-                },
-                "fast": {
-                  "top": -442.0,
-                  "left": -195.0
-                },
-                "productive": {
-                  "top": 750.0,
-                  "left": -1520.0
-                },
-                "open": {
-                  "top": -350.0,
-                  "left": -1520.0
-                }
+              "beautiful": {
+                "top": 540.0,
+                "left": 0.0
               },
+              "fast": {
+                "top": -540.0,
+                "left": 0.0
+              },
+              "productive": {
+                "top": 540.0,
+                "left": -1920.0
+              },
+              "open": {
+                "top": -540.0,
+                "left": -1920.0
+              }
+            },
+            "title_positions": {
+              "collapsed": {
+                "top": 750.0,
+                "left": 350.0
+              },
+              "beautiful": {
+                "top": 750.0,
+                "left": 350.0
+              },
+              "fast": {
+                "top": -442.0,
+                "left": -195.0
+              },
+              "productive": {
+                "top": 750.0,
+                "left": -1520.0
+              },
+              "open": {
+                "top": -350.0,
+                "left": -1520.0
+              }
+            },
             "shell_image_offset": {
               "top": 580.0,
               "left": 0.0
@@ -299,49 +299,49 @@
             "title": "Productive",
             "subtitle": "Develop while your\napp is running",
             "background_positions": {
-                "collapsed": {
-                  "top": 0.0,
-                  "left": 960.0
-                },
-                "beautiful": {
-                  "top": 0.0,
-                  "left": 960.0
-                },
-                "fast": {
-                  "top": -1080.0,
-                  "left": 960.0
-                },
-                "productive": {
-                  "top": 0.0,
-                  "left": -960.0
-                },
-                "open": {
-                  "top": -1080.0,
-                  "left": -960.0
-                }
+              "collapsed": {
+                "top": 0.0,
+                "left": 960.0
               },
-              "title_positions": {
-                "collapsed": {
-                  "top": 190.0,
-                  "left": 1205.0
-                },
-                "beautiful": {
-                  "top": 190.0,
-                  "left": 1210.0
-                },
-                "fast": {
-                  "top": -890.0,
-                  "left": 1210.0
-                },
-                "productive": {
-                  "top": 116.0,
-                  "left": -1050.0
-                },
-                "open": {
-                  "top": -890.0,
-                  "left": -730.0
-                }
+              "beautiful": {
+                "top": 0.0,
+                "left": 960.0
               },
+              "fast": {
+                "top": -1080.0,
+                "left": 960.0
+              },
+              "productive": {
+                "top": 0.0,
+                "left": -960.0
+              },
+              "open": {
+                "top": -1080.0,
+                "left": -960.0
+              }
+            },
+            "title_positions": {
+              "collapsed": {
+                "top": 190.0,
+                "left": 1205.0
+              },
+              "beautiful": {
+                "top": 190.0,
+                "left": 1210.0
+              },
+              "fast": {
+                "top": -890.0,
+                "left": 1210.0
+              },
+              "productive": {
+                "top": 116.0,
+                "left": -1050.0
+              },
+              "open": {
+                "top": -890.0,
+                "left": -730.0
+              }
+            },
             "shell_image_offset": {
               "top": 0.0,
               "left": 1250.0
@@ -360,14 +360,14 @@
             }
           },
           "productive2": {
-              "innards_bg_color": "0xFF4444444",
-              "innards_bg": {
+            "innards_bg_color": "0xFF4444444",
+            "innards_bg": {
               "top": 100.0,
               "left": 222.0,
               "width": 920.0,
               "height": 560.0
-              }
-            },
+            }
+          },
           "open": {
             "background_color": "0xFFBFE6F3",
             "title_color": "0xFF1B364F",
@@ -380,54 +380,54 @@
             "shell_fit": "cover",
             "inner_bg_color": "0x00000000",
             "background_positions": {
-                "collapsed": {
-                  "top": 540.0,
-                  "left": 960.0
-                },
-                "beautiful": {
-                  "top": 540.0,
-                  "left": 960.0
-                },
-                "fast": {
-                  "top": -540.0,
-                  "left": 960.0
-                },
-                "productive": {
-                  "top": 540.0,
-                  "left": -960.0
-                },
-                "open": {
-                  "top": -540.0,
-                  "left": -960.0
-                }
+              "collapsed": {
+                "top": 540.0,
+                "left": 960.0
               },
-              "title_positions": {
-                "collapsed": {
-                  "top": 750.0,
-                  "left": 1320.0
-                },
-                "beautiful": {
-                  "top": 730.0,
-                  "left": 1320.0
-                },
-                "fast": {
-                  "top": -360.0,
-                  "left": 1320.0
-                },
-                "productive": {
-                  "top": 730.0,
-                  "left": -600.0
-                },
-                "open": {
-                  "top": -448.0,
-                  "left": -1165.0
-                }
+              "beautiful": {
+                "top": 540.0,
+                "left": 960.0
               },
-              "shell_image_offset": {
+              "fast": {
+                "top": -540.0,
+                "left": 960.0
+              },
+              "productive": {
+                "top": 540.0,
+                "left": -960.0
+              },
+              "open": {
+                "top": -540.0,
+                "left": -960.0
+              }
+            },
+            "title_positions": {
+              "collapsed": {
+                "top": 750.0,
+                "left": 1320.0
+              },
+              "beautiful": {
+                "top": 730.0,
+                "left": 1320.0
+              },
+              "fast": {
+                "top": -360.0,
+                "left": 1320.0
+              },
+              "productive": {
+                "top": 730.0,
+                "left": -600.0
+              },
+              "open": {
+                "top": -448.0,
+                "left": -1165.0
+              }
+            },
+            "shell_image_offset": {
               "top": 540.0,
               "left": 1250.0
-              },
-              "shell_image": {
+            },
+            "shell_image": {
               "top": 93.0,
               "left": 800.0,
               "width": 1217.0,
@@ -445,44 +445,42 @@
     },
     {
       "bg_color": "#FFFFFFFF",
-      "advancement_count": 2,
       "content": [
         {
-          "type": "label",
-          "advancement_step": 0,
-          "text": "Announcing",
-          "font_size": 100.0,
-          "align": "center",
-          "font_color": "@replace/blue_font_color",
-          "line_height": 0.9,
-          "letter_spacing": -1.81,
-          "x": 610.0,
-          "y": 300.0,
-          "height": 106.0,
-          "width": 691.0,
-          "animation":
-          {
-              "curve": "easeInOut",
-              "opacity_start": 0.0,
-              "offset_y": -100,
-              "duration_in_milliseconds": 1250
+          "type": "image",
+          "x": 600.0,
+          "y": 140.0,
+          "fit": "contain",
+          "height": 800.0,
+          "width": 800.0,
+          "file": "images/misc/FL18-Slide-93-v01.gif",
+          "evict": true,
+          "animation": {
+            "curve": "easeInOut",
+            "delay_in_milliseconds": 2000,
+            "duration_in_milliseconds": 1000,
+            "offset_x": -350.0
           }
         },
         {
-          "type": "image",
-          "advancement_step": 1,
-          "x": 0.0,
-          "y": 0.0,
-          "fit": "contain",
-          "height": 1080.0,
-          "width": 1920.0,
-          "evict": true,
-          "file": "images/misc/FL_12.jpg",
-          "animation":
-          {
-              "curve": "easeInOut",
-              "opacity_start": 0.0,
-              "duration_in_milliseconds": 1250
+          "type": "label",
+          "text": "Flutter 1.2",
+          "font_size": 150.0,
+          "font_color": "#52575Bff",
+          "align": "center",
+          "line_height": 0.9,
+          "letter_spacing": -3.44,
+          "x": 750.0,
+          "y": 450.0,
+          "height": 166.0,
+          "width": 726.0,
+          "animation": {
+            "curve": "easeInOut",
+            "opacity_start": 0.0,
+            "opacity_end": 1.0,
+            "delay_in_milliseconds": 2500,
+            "duration_in_milliseconds": 700,
+            "offset_x": 40.0
           }
         }
       ]
@@ -511,6 +509,7 @@
           "font_color": "#52575Bff",
           "line_height": 1.6,
           "letter_spacing": -0.06,
+          "align": "centerLeft",
           "x": 1078.0,
           "y": 140.0,
           "height": 655.0,
@@ -523,8 +522,9 @@
           "font_color": "#52575Bff",
           "line_height": 0.90,
           "letter_spacing": -0.06,
-          "x": 975.0,
-          "y": 540.0,
+          "align": "centerLeft",
+          "x": 1078.0,
+          "y": 560.0,
           "height": 655.0,
           "width": 719.0
         }
@@ -554,12 +554,279 @@
           "font_color": "#52575Bff",
           "line_height": 1.6,
           "letter_spacing": -0.06,
+          "align": "centerLeft",
           "x": 1078.0,
           "y": 140.0,
-          "height": 655.0,
+          "height": 800.0,
           "width": 719.0
         }
-
+      ]
+    },
+    {
+      "bg_color": "#FFFFFFff",
+      "content": [
+        {
+          "type": "label",
+          "text": "Dart 2.2",
+          "font_size": 150.0,
+          "font_color": "#52575Bff",
+          "align": "center",
+          "line_height": 0.9,
+          "letter_spacing": -3.44,
+          "x": 675.0,
+          "y": 375.0,
+          "height": 166.0,
+          "width": 726.0,
+          "animation": {
+            "curve": "easeInOut",
+            "opacity_start": 0.0,
+            "opacity_end": 1.0,
+            "delay_in_milliseconds": 1000,
+            "duration_in_milliseconds": 700,
+            "offset_x": 40.0
+          }
+        },
+        {
+          "type": "image",
+          "x": 877.0,
+          "y": 368.0,
+          "fit": "contain",
+          "height": 166.0,
+          "width": 166.0,
+          "file": "images/misc/dart_logo.webp",
+          "animation": {
+            "curve": "easeInOut",
+            "delay_in_milliseconds": 500,
+            "duration_in_milliseconds": 1000,
+            "offset_x": -280.0
+          }
+        },
+        {
+          "type": "label",
+          "text": "Smaller",
+          "font_size": 64.0,
+          "font_color": "#52575Bff",
+          "align": "center",
+          "letter_spacing": -3.44,
+          "x": 447.0,
+          "y": 607.0,
+          "height": 81.0,
+          "width": 329.0,
+          "animation": {
+            "curve": "easeInOut",
+            "delay_in_milliseconds": 1700,
+            "duration_in_milliseconds": 500,
+            "offset_x": -25.0,
+            "offset_y": 25.0,
+            "opacity_start": 0.0
+          }
+        },
+        {
+          "type": "label",
+          "text": "Faster",
+          "font_size": 64.0,
+          "font_color": "#52575Bff",
+          "align": "center",
+          "letter_spacing": -3.44,
+          "x": 807.0,
+          "y": 607.0,
+          "height": 81.0,
+          "width": 279.0,
+          "animation": {
+            "curve": "easeInOut",
+            "delay_in_milliseconds": 2400,
+            "duration_in_milliseconds": 500,
+            "offset_y": 25.0,
+            "opacity_start": 0.0
+          }
+        },
+        {
+          "type": "label",
+          "text": "Cleaner",
+          "font_size": 64.0,
+          "font_color": "#52575Bff",
+          "align": "center",
+          "letter_spacing": -3.44,
+          "x": 1117.0,
+          "y": 607.0,
+          "height": 81.0,
+          "width": 356.0,
+          "delay_in_milliseconds": 3100,
+          "animation": {
+            "curve": "easeInOut",
+            "delay_in_milliseconds": 3100,
+            "duration_in_milliseconds": 500,
+            "offset_y": 25.0,
+            "offset_x": 25.0,
+            "opacity_start": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "bg_color": "#FFFFFFff",
+      "content": [
+        {
+          "type": "label",
+          "text": "New in\nDart 2.0 to 2.2",
+          "font_size": 84.0,
+          "font_color": "@replace/blue_font_color",
+          "line_height": 0.9,
+          "letter_spacing": -1.44,
+          "align": "centerLeft",
+          "text_align": "left",
+          "x": 186.0,
+          "y": 415.0,
+          "height": 270.0,
+          "width": 691.0
+        },
+        {
+          "type": "label",
+          "text": "Strong type system\nOptional new\nSupport for int-to-double\nImproved performance\nSet literals",
+          "font_size": 60.0,
+          "font_color": "#52575Bff",
+          "line_height": 1.6,
+          "letter_spacing": -0.06,
+          "align": "centerLeft",
+          "x": 1078.0,
+          "y": 140.0,
+          "height": 800.0,
+          "width": 719.0
+        }
+      ]
+    },
+    {
+      "bg_color": "#FFFFFFff",
+      "content": [
+        {
+          "type": "image",
+          "x": 520.0,
+          "y": 470.0,
+          "width": 400.0,
+          "height": 114.0,
+          "file": "images/firebase_screen/logo_lockup_firebase_horizontal.webp",
+          "animation": {
+            "curve": "easeInOut",
+            "delay_in_milliseconds": 1000,
+            "duration_in_milliseconds": 750,
+            "offset_y": -344.0
+          }
+        },
+        {
+          "type": "image",
+          "x": 1002.0,
+          "y": 477.0,
+          "width": 365.0,
+          "height": 102.0,
+          "file": "images/firebase_screen/logo_lockup_flutter_horizontal.webp",
+          "animation": {
+            "curve": "easeInOut",
+            "delay_in_milliseconds": 1000,
+            "duration_in_milliseconds": 750,
+            "offset_y": -344.0
+          }
+        },
+        {
+          "type": "image",
+          "x": 90.0,
+          "y": 300.0,
+          "width": 550.0,
+          "height": 795.0,
+          "fit": "contain",
+          "file": "images/firebase_screen/build better apps.webp",
+          "animation": {
+            "type": "fade_in",
+            "curve": "easeInOut",
+            "opacity_start": 0.0,
+            "delay_in_milliseconds": 1200,
+            "duration_in_milliseconds": 1000
+          }
+        },
+        {
+          "type": "image",
+          "x": 685.0,
+          "y": 300.0,
+          "width": 550.0,
+          "height": 795.0,
+          "file": "images/firebase_screen/improve app quality.webp",
+          "animation": {
+            "type": "fade_in",
+            "curve": "easeInOut",
+            "opacity_start": 0.0,
+            "delay_in_milliseconds": 1300,
+            "duration_in_milliseconds": 1000
+          }
+        },
+        {
+          "type": "image",
+          "x": 1265.0,
+          "y": 300.0,
+          "width": 550.0,
+          "height": 795.0,
+          "file": "images/firebase_screen/grow your app.webp",
+          "animation": {
+            "type": "fade_in",
+            "curve": "easeInOut",
+            "opacity_start": 0.0,
+            "delay_in_milliseconds": 1400,
+            "duration_in_milliseconds": 1000
+          }
+        }
+      ]
+    },
+    {
+      "bg_color": "#FFFFFFFF",
+      "content": [
+        {
+          "type": "label",
+          "text": "Dart DevTools",
+          "font_size": 80.0,
+          "font_color": "@replace/blue_font_color",
+          "line_height": 1.6,
+          "letter_spacing": -0.06,
+          "align": "center",
+          "x": 600.0,
+          "y": 340.0,
+          "height": 400.0,
+          "width": 719.0,
+          "animation": {
+            "curve": "easeInOut",
+            "offset_y": -400,
+            "delay_in_milliseconds": 1400,
+            "duration_in_milliseconds": 1000
+          }
+        },
+        {
+          "type": "rect",
+          "x": 258.0,
+          "y": 298.0,
+          "height": 804.0,
+          "width": 1404.0,
+          "fill": "#00000043",
+          "animation": {
+            "curve": "easeInOut",
+            "delay_in_milliseconds": 2200,
+            "duration_in_milliseconds": 750,
+            "opacity_start": 0.0,
+            "opacity_end": 1.0
+          }
+        },
+        {
+          "type": "image",
+          "x": 260.0,
+          "y": 300.0,
+          "height": 800.0,
+          "width": 1400.0,
+          "file": "images/misc/devtools_show_in_browser.png",
+          "fit": "contain",
+          "animation": {
+            "curve": "easeInOut",
+            "delay_in_milliseconds": 2200,
+            "duration_in_milliseconds": 750,
+            "opacity_start": 0.0,
+            "opacity_end": 1.0
+          }
+        }
       ]
     },
     {
@@ -572,13 +839,12 @@
           "width": 960,
           "x": 0,
           "y": 0,
-          "animation":
-          {
-              "scale_align": "topLeft",
-              "curve": "elasticOut",
-              "scale_start": 0.0,
-              "scale_end": 1.0,
-              "duration_in_milliseconds": 1250
+          "animation": {
+            "scale_align": "topLeft",
+            "curve": "elasticOut",
+            "scale_start": 0.0,
+            "scale_end": 1.0,
+            "duration_in_milliseconds": 1250
           }
         },
         {
@@ -593,11 +859,10 @@
           "y": 161.0,
           "height": 106.0,
           "width": 691.0,
-          "animation":
-          {
-              "curve": "easeInOut",
-              "opacity_start": 0.0,
-              "duration_in_milliseconds": 1250
+          "animation": {
+            "curve": "easeInOut",
+            "opacity_start": 0.0,
+            "duration_in_milliseconds": 1250
           }
         },
         {
@@ -612,11 +877,10 @@
           "y": 299.0,
           "height": 81.0,
           "width": 493.0,
-          "animation":
-          {
-              "curve": "easeInOut",
-              "opacity_start": 0.0,
-              "duration_in_milliseconds": 1250
+          "animation": {
+            "curve": "easeInOut",
+            "opacity_start": 0.0,
+            "duration_in_milliseconds": 1250
           }
         },
         {
@@ -627,13 +891,13 @@
           "x": 960,
           "y": 0,
           "animation": {
-              "scale_align": "topRight",
-              "curve": "elasticOut",
-              "scale_start": 0.0,
-              "scale_end": 1.0,
-              "delay_in_milliseconds": 500,
-              "duration_in_milliseconds": 1250
-            }
+            "scale_align": "topRight",
+            "curve": "elasticOut",
+            "scale_start": 0.0,
+            "scale_end": 1.0,
+            "delay_in_milliseconds": 500,
+            "duration_in_milliseconds": 1250
+          }
         },
         {
           "type": "label",
@@ -647,12 +911,11 @@
           "y": 131.0,
           "height": 106.0,
           "width": 691.0,
-          "animation":
-          {
-              "curve": "easeInOut",
-              "opacity_start": 0.0,
-              "delay_in_milliseconds": 500,
-              "duration_in_milliseconds": 1250
+          "animation": {
+            "curve": "easeInOut",
+            "opacity_start": 0.0,
+            "delay_in_milliseconds": 500,
+            "duration_in_milliseconds": 1250
           }
         },
         {
@@ -668,12 +931,11 @@
           "y": 273.0,
           "height": 137.0,
           "width": 691.0,
-          "animation":
-          {
-              "curve": "easeInOut",
-              "opacity_start": 0.0,
-              "delay_in_milliseconds": 500,
-              "duration_in_milliseconds": 1250
+          "animation": {
+            "curve": "easeInOut",
+            "opacity_start": 0.0,
+            "delay_in_milliseconds": 500,
+            "duration_in_milliseconds": 1250
           }
         },
         {
@@ -683,16 +945,15 @@
           "width": 960,
           "x": 0,
           "y": 540,
-          "animation":
-            {
-              "scale_align": "bottomLeft",
-              "curve": "elasticOut",
-              "scale_start": 0.0,
-              "scale_end": 1.0,
-              "curve": "elasticOut",
-              "delay_in_milliseconds": 1000,
-              "duration_in_milliseconds": 1250
-            }
+          "animation": {
+            "scale_align": "bottomLeft",
+            "curve": "elasticOut",
+            "scale_start": 0.0,
+            "scale_end": 1.0,
+            "curve": "elasticOut",
+            "delay_in_milliseconds": 1000,
+            "duration_in_milliseconds": 1250
+          }
         },
         {
           "type": "label",
@@ -706,12 +967,11 @@
           "y": 664.0,
           "height": 106.0,
           "width": 691.0,
-          "animation":
-          {
-              "curve": "easeInOut",
-              "opacity_start": 0.0,
-              "delay_in_milliseconds": 1000,
-              "duration_in_milliseconds": 1250
+          "animation": {
+            "curve": "easeInOut",
+            "opacity_start": 0.0,
+            "delay_in_milliseconds": 1000,
+            "duration_in_milliseconds": 1250
           }
         },
         {
@@ -727,12 +987,11 @@
           "y": 806.0,
           "height": 150.0,
           "width": 493.0,
-          "animation":
-          {
-              "curve": "easeInOut",
-              "opacity_start": 0.0,
-              "delay_in_milliseconds": 1000,
-              "duration_in_milliseconds": 1250
+          "animation": {
+            "curve": "easeInOut",
+            "opacity_start": 0.0,
+            "delay_in_milliseconds": 1000,
+            "duration_in_milliseconds": 1250
           }
         },
         {
@@ -743,13 +1002,13 @@
           "x": 960,
           "y": 540,
           "animation": {
-              "scale_align": "bottomRight",
-              "curve": "elasticOut",
-              "scale_start": 0.0,
-              "scale_end": 1.0,
-              "duration_in_milliseconds": 1250,
-              "delay_in_milliseconds": 1500
-            }
+            "scale_align": "bottomRight",
+            "curve": "elasticOut",
+            "scale_start": 0.0,
+            "scale_end": 1.0,
+            "duration_in_milliseconds": 1250,
+            "delay_in_milliseconds": 1500
+          }
         },
         {
           "type": "label",
@@ -763,12 +1022,11 @@
           "y": 666.0,
           "height": 106.0,
           "width": 691.0,
-          "animation":
-          {
-              "curve": "easeInOut",
-              "opacity_start": 0.0,
-              "delay_in_milliseconds": 1500,
-              "duration_in_milliseconds": 1250
+          "animation": {
+            "curve": "easeInOut",
+            "opacity_start": 0.0,
+            "delay_in_milliseconds": 1500,
+            "duration_in_milliseconds": 1250
           }
         },
         {
@@ -785,12 +1043,11 @@
           "height": 146.0,
           "width": 550.0,
           "delay_in_milliseconds": 1500,
-          "animation":
-          {
-              "curve": "easeInOut",
-              "opacity_start": 0.0,
-              "delay_in_milliseconds": 1500,
-              "duration_in_milliseconds": 1250
+          "animation": {
+            "curve": "easeInOut",
+            "opacity_start": 0.0,
+            "delay_in_milliseconds": 1500,
+            "duration_in_milliseconds": 1250
           }
         }
       ]
@@ -1054,61 +1311,61 @@
     {
       "bg_color": "#FFFFFFff",
       "content": [
-          {
-              "type": "label",
-              "text": "Material",
-              "font_size": 130.0,
-              "font_color": "#1B364Fff",
-              "letter_spacing": -2.18,
-              "text_align": "center",
-              "x": 444.0,
-              "y": 458.0,
-              "height": 120.0,
-              "width": 570.0,
-              "animation": {
-                  "curve": "easeOut",
-                  "delay_in_milliseconds": 0,
-                  "duration_in_milliseconds": 2000,
-                  "offset_x": -80.0,
-                  "offset_y": 0.0
-              }
-          },
-          {
-              "type": "label",
-              "text": "Flutter",
-              "font_size": 130.0,
-              "font_color": "#1B364Fff",
-              "letter_spacing": -2.18,
-              "text_align": "center",
-              "x": 897.0,
-              "y": 458.0,
-              "height": 120.0,
-              "width": 570.0,
-              "animation": {
-                  "curve": "easeOut",
-                  "delay_in_milliseconds": 0,
-                  "duration_in_milliseconds": 2000,
-                  "offset_x": 90.0,
-                  "offset_y": 0.0
-              }
-          },
-          {
-              "type": "image",
-              "x": 934.0,
-              "y": 498.0,
-              "fit": "contain",
-              "height": 97.0,
-              "width": 97.0,
-              "file": "images/misc/heart.webp",
-              "animation": {
-                  "curve": "elasticOut",
-                  "scale_start": 0.0,
-                  "scale_end": 1.25,
-                  "duration_in_milliseconds": 4000
-              }
+        {
+          "type": "label",
+          "text": "Material",
+          "font_size": 130.0,
+          "font_color": "#1B364Fff",
+          "letter_spacing": -2.18,
+          "text_align": "center",
+          "x": 444.0,
+          "y": 458.0,
+          "height": 120.0,
+          "width": 570.0,
+          "animation": {
+            "curve": "easeOut",
+            "delay_in_milliseconds": 0,
+            "duration_in_milliseconds": 2000,
+            "offset_x": -80.0,
+            "offset_y": 0.0
           }
+        },
+        {
+          "type": "label",
+          "text": "Flutter",
+          "font_size": 130.0,
+          "font_color": "#1B364Fff",
+          "letter_spacing": -2.18,
+          "text_align": "center",
+          "x": 897.0,
+          "y": 458.0,
+          "height": 120.0,
+          "width": 570.0,
+          "animation": {
+            "curve": "easeOut",
+            "delay_in_milliseconds": 0,
+            "duration_in_milliseconds": 2000,
+            "offset_x": 90.0,
+            "offset_y": 0.0
+          }
+        },
+        {
+          "type": "image",
+          "x": 934.0,
+          "y": 498.0,
+          "fit": "contain",
+          "height": 97.0,
+          "width": 97.0,
+          "file": "images/misc/heart.webp",
+          "animation": {
+            "curve": "elasticOut",
+            "scale_start": 0.0,
+            "scale_end": 1.25,
+            "duration_in_milliseconds": 4000
+          }
+        }
       ]
-  },
+    },
     {
       "bg_color": "#FFFFFFff",
       "content": [
@@ -1222,11 +1479,11 @@
           "height": 200.0,
           "width": 890.0,
           "animation": {
-              "curve": "easeInOut",
-              "opacity_start": 0.0,
-              "opacity_end": 1.0,
-              "duration_in_milliseconds": 1000
-            }
+            "curve": "easeInOut",
+            "opacity_start": 0.0,
+            "opacity_end": 1.0,
+            "duration_in_milliseconds": 1000
+          }
         },
         {
           "asset": "assets/flare/Robot.nma",
@@ -1237,12 +1494,12 @@
           "height": 1080.0,
           "width": 1150.0,
           "animation": {
-              "curve": "easeInOut",
-              "delay_in_milliseconds": 0,
-              "opacity_start": 0.0,
-              "opacity_end": 1.0,
-              "duration_in_milliseconds": 1000
-            }
+            "curve": "easeInOut",
+            "delay_in_milliseconds": 0,
+            "opacity_start": 0.0,
+            "opacity_end": 1.0,
+            "duration_in_milliseconds": 1000
+          }
         }
       ]
     },
@@ -1271,11 +1528,11 @@
           "height": 122.0,
           "width": 1760.0,
           "animation": {
-              "delay_in_milliseconds": 1100,
-              "opacity_start": 0.0,
-              "opacity_end": 1.0,
-              "curve": "easeInOut",
-              "duration_in_milliseconds": 600
+            "delay_in_milliseconds": 1100,
+            "opacity_start": 0.0,
+            "opacity_end": 1.0,
+            "curve": "easeInOut",
+            "duration_in_milliseconds": 600
           }
         },
         {
@@ -1293,11 +1550,11 @@
           "width": 1760.0,
           "delay_in_milliseconds": 1100,
           "animation": {
-              "delay_in_milliseconds": 1100,
-              "opacity_start": 0.0,
-              "opacity_end": 1.0,
-              "curve": "easeInOut",
-              "duration_in_milliseconds": 600
+            "delay_in_milliseconds": 1100,
+            "opacity_start": 0.0,
+            "opacity_end": 1.0,
+            "curve": "easeInOut",
+            "duration_in_milliseconds": 600
           }
         }
       ]
@@ -1311,186 +1568,6 @@
           "y": 0.0,
           "height": 1080.0,
           "width": 1920.0
-        }
-      ]
-    },
-    {
-      "bg_color": "#FFFFFFff",
-      "content": [
-        {
-          "type": "label",
-          "text": "Dart 2.1",
-          "font_size": 150.0,
-          "font_color": "#52575Bff",
-          "align": "center",
-          "line_height": 0.9,
-          "letter_spacing": -3.44,
-          "x": 675.0,
-          "y": 375.0,
-          "height": 166.0,
-          "width": 726.0,
-          "animation": {
-            "curve": "easeInOut",
-            "opacity_start": 0.0,
-            "opacity_end": 1.0,
-            "delay_in_milliseconds": 1000,
-            "duration_in_milliseconds": 700,
-            "offset_x": 40.0
-          }
-        },
-        {
-          "type": "image",
-          "x": 877.0,
-          "y": 368.0,
-          "fit": "contain",
-          "height": 166.0,
-          "width": 166.0,
-          "file": "images/misc/dart_logo.webp",
-          "animation": {
-            "curve": "easeInOut",
-            "delay_in_milliseconds": 500,
-            "duration_in_milliseconds": 1000,
-            "offset_x": -280.0
-          }
-        },
-        {
-          "type": "label",
-          "text": "Smaller",
-          "font_size": 64.0,
-          "font_color": "#52575Bff",
-          "align": "center",
-          "letter_spacing": -3.44,
-          "x": 447.0,
-          "y": 607.0,
-          "height": 81.0,
-          "width": 329.0,
-          "animation": {
-            "curve": "easeInOut",
-            "delay_in_milliseconds": 1700,
-            "duration_in_milliseconds": 500,
-            "offset_x": -25.0,
-            "offset_y": 25.0,
-            "opacity_start": 0.0
-          }
-        },
-        {
-          "type": "label",
-          "text": "Faster",
-          "font_size": 64.0,
-          "font_color": "#52575Bff",
-          "align": "center",
-          "letter_spacing": -3.44,
-          "x": 807.0,
-          "y": 607.0,
-          "height": 81.0,
-          "width": 279.0,
-          "animation": {
-            "curve": "easeInOut",
-            "delay_in_milliseconds": 2400,
-            "duration_in_milliseconds": 500,
-            "offset_y": 25.0,
-            "opacity_start": 0.0
-          }
-        },
-        {
-          "type": "label",
-          "text": "Cleaner",
-          "font_size": 64.0,
-          "font_color": "#52575Bff",
-          "align": "center",
-          "letter_spacing": -3.44,
-          "x": 1117.0,
-          "y": 607.0,
-          "height": 81.0,
-          "width": 356.0,
-          "delay_in_milliseconds": 3100,
-          "animation": {
-            "curve": "easeInOut",
-            "delay_in_milliseconds": 3100,
-            "duration_in_milliseconds": 500,
-            "offset_y": 25.0,
-            "offset_x": 25.0,
-            "opacity_start": 0.0
-          }
-        }
-      ]
-    },
-    {
-      "bg_color": "#FFFFFFff",
-      "content": [
-        {
-          "type": "image",
-          "x": 520.0,
-          "y": 470.0,
-          "width": 400.0,
-          "height": 114.0,
-          "file": "images/firebase_screen/logo_lockup_firebase_horizontal.webp",
-          "animation": {
-            "curve": "easeInOut",
-            "delay_in_milliseconds": 1000,
-            "duration_in_milliseconds": 750,
-            "offset_y": -344.0
-          }
-        },
-        {
-          "type": "image",
-          "x": 1002.0,
-          "y": 477.0,
-          "width": 365.0,
-          "height": 102.0,
-          "file": "images/firebase_screen/logo_lockup_flutter_horizontal.webp",
-          "animation": {
-            "curve": "easeInOut",
-            "delay_in_milliseconds": 1000,
-            "duration_in_milliseconds": 750,
-            "offset_y": -344.0
-          }
-        },
-        {
-          "type": "image",
-          "x": 90.0,
-          "y": 300.0,
-          "width": 550.0,
-          "height": 795.0,
-          "fit": "contain",
-          "file": "images/firebase_screen/build better apps.webp",
-          "animation": {
-              "type": "fade_in",
-              "curve": "easeInOut",
-              "opacity_start": 0.0,
-              "delay_in_milliseconds": 1200,
-              "duration_in_milliseconds": 1000
-          }
-        },
-        {
-          "type": "image",
-          "x": 685.0,
-          "y": 300.0,
-          "width": 550.0,
-          "height": 795.0,
-          "file": "images/firebase_screen/improve app quality.webp",
-          "animation": {
-              "type": "fade_in",
-              "curve": "easeInOut",
-              "opacity_start": 0.0,
-              "delay_in_milliseconds": 1300,
-              "duration_in_milliseconds": 1000
-          }
-        },
-        {
-          "type": "image",
-          "x": 1265.0,
-          "y": 300.0,
-          "width": 550.0,
-          "height": 795.0,
-          "file": "images/firebase_screen/grow your app.webp",
-          "animation": {
-              "type": "fade_in",
-              "curve": "easeInOut",
-              "opacity_start": 0.0,
-              "delay_in_milliseconds": 1400,
-              "duration_in_milliseconds": 1000
-          }
         }
       ]
     },
@@ -1572,7 +1649,7 @@
     {
       "bg_color": "#FFFFFFFF",
       "content": [
-       {
+        {
           "type": "image",
           "x": 0.0,
           "y": 0.0,
