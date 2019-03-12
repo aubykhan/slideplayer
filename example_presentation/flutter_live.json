@@ -1483,14 +1483,62 @@
       "animated_transition": true,
       "content": [
         {
+          "type": "label",
+          "text": "Over $10,000 in prizes for a few winners!",
+          "font_size": 64.0,
+          "font_color": "@replace/normal_font_color",
+          "line_height": 0.9,
+          "letter_spacing": -1.44,
+          "align": "center",
+          "text_align": "left",
+          "x": 0.0,
+          "y": 860.0,
+          "height": 270.0,
+          "width": 1920.0,
+          "animation": {
+            "curve": "easeInOut",
+            "opacity_start": 0.0,
+            "opacity_end": 1.0,
+            "delay_in_milliseconds": 4000,
+            "duration_in_milliseconds": 800
+          }
+        },
+        {
+          "type": "label",
+          "text": "Create an app of 5KB or less of Dart code",
+          "font_size": 84.0,
+          "font_color": "@replace/blue_font_color",
+          "line_height": 0.9,
+          "letter_spacing": -1.44,
+          "align": "center",
+          "text_align": "left",
+          "x": 0.0,
+          "y": 750.0,
+          "height": 270.0,
+          "width": 1920.0,
+          "animation": {
+            "curve": "easeInOut",
+            "opacity_start": 0.0,
+            "opacity_end": 1.0,
+            "delay_in_milliseconds": 3400,
+            "duration_in_milliseconds": 800
+          }
+        },
+        {
           "type": "image",
           "x": 0.0,
-          "y": 130.0,
+          "y": 180.0,
           "fit": "contain",
-          "height": 800.0,
+          "height": 700.0,
           "width": 1920.0,
           "evict": true,
-          "file": "images/misc/flutter_create.png"
+          "file": "images/misc/flutter_create.png",
+          "animation": {
+            "curve": "easeInOut",
+            "offset_y": -100,
+            "delay_in_milliseconds": 3000,
+            "duration_in_milliseconds": 800
+          }
         }
       ]
     },
@@ -1593,162 +1641,6 @@
           "width": 1920.0,
           "evict": true,
           "file": "images/misc/FL18-Slide-93-v01.gif"
-        }
-      ]
-    },
-    {
-      "bg_color": "#FFFFFFff",
-      "advancement_count": 4,
-      "content": [
-        {
-          "type": "label",
-          "x": 120.0,
-          "y": 60.0,
-          "height": 200.0,
-          "width": 1920.0,
-          "text": "Advancement Examples",
-          "align": "centerLeft",
-          "text_align": "@replace/jumbo_slide_text_align",
-          "font_size": "@replace/jumbo_slide_font_size",
-          "font_color": "@replace/jumbo_slide_font_color"
-        },
-        {
-          "type": "label",
-          "advancement_step": 1,
-          "text": "•",
-          "align": "centerLeft",
-          "text_align": "start",
-          "font_size": 100.0,
-          "font_color": "0xFF666666",
-          "x": 140.0,
-          "y": 250.0,
-          "height": 200.0,
-          "width": 100.0
-        },
-        {
-          "type": "label",
-          "advancement_step": 1,
-          "text": "Advancement Step 1",
-          "align": "centerLeft",
-          "text_align": "start",
-          "font_size": 56.0,
-          "font_color": "0xFF666666",
-          "x": 230.0,
-          "y": 250.0,
-          "height": 200.0,
-          "width": 1500.0
-        },
-        {
-          "type": "label",
-          "advancement_step": 2,
-          "text": "•",
-          "align": "centerLeft",
-          "text_align": "start",
-          "font_size": 100.0,
-          "font_color": "0xFF666666",
-          "x": 140.0,
-          "y": 330.0,
-          "height": 200.0,
-          "width": 100.0,
-          "animation": {
-            "curve": "easeOut",
-            "duration_in_milliseconds": 300,
-            "opacity_start": 0.0,
-            "opacity_end": 1.0
-          }
-        },
-        {
-          "type": "label",
-          "advancement_step": 2,
-          "text": "Advancement Step 2",
-          "align": "centerLeft",
-          "text_align": "start",
-          "font_size": 56.0,
-          "font_color": "0xFF666666",
-          "x": 230.0,
-          "y": 330.0,
-          "height": 200.0,
-          "width": 1500.0,
-          "animation": {
-            "curve": "easeOut",
-            "duration_in_milliseconds": 300,
-            "opacity_start": 0.0,
-            "opacity_end": 1.0
-          }
-        },
-        {
-          "type": "label",
-          "advancement_step": 3,
-          "text": "•",
-          "align": "centerLeft",
-          "text_align": "start",
-          "font_size": 100.0,
-          "font_color": "0xFF666666",
-          "x": 2060.0,
-          "y": 410.0,
-          "height": 200.0,
-          "width": 100.0,
-          "animation": {
-            "curve": "easeInOut",
-            "duration_in_milliseconds": 750,
-            "offset_x": -1920.0
-          }
-        },
-        {
-          "type": "label",
-          "advancement_step": 3,
-          "text": "Advancement Step 3",
-          "align": "centerLeft",
-          "text_align": "start",
-          "font_size": 56.0,
-          "font_color": "0xFF666666",
-          "x": 2150.0,
-          "y": 410.0,
-          "height": 200.0,
-          "width": 1500.0,
-          "animation": {
-            "curve": "easeInOut",
-            "duration_in_milliseconds": 750,
-            "offset_x": -1920.0
-          }
-        },
-        {
-          "type": "label",
-          "advancement_step": 4,
-          "text": "•",
-          "align": "centerLeft",
-          "text_align": "start",
-          "font_size": 100.0,
-          "font_color": "0xFF666666",
-          "x": 140.0,
-          "y": 450.0,
-          "height": 200.0,
-          "width": 100.0,
-          "animation": {
-            "curve": "easeInOut",
-            "opacity_start": 0.0,
-            "offset_y": 40.0,
-            "duration_in_milliseconds": 500
-          }
-        },
-        {
-          "type": "label",
-          "advancement_step": 4,
-          "text": "Advancement Step 4",
-          "align": "centerLeft",
-          "text_align": "start",
-          "font_size": 56.0,
-          "font_color": "0xFF666666",
-          "x": 230.0,
-          "y": 450.0,
-          "height": 200.0,
-          "width": 1500.0,
-          "animation": {
-            "curve": "easeInOut",
-            "opacity_start": 0.0,
-            "offset_y": 40.0,
-            "duration_in_milliseconds": 500
-          }
         }
       ]
     }
