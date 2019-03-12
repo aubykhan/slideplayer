@@ -487,6 +487,7 @@
     },
     {
       "bg_color": "#FFFFFFff",
+      "animated_transition": true,
       "content": [
         {
           "type": "label",
@@ -524,7 +525,7 @@
           "letter_spacing": -0.06,
           "align": "centerLeft",
           "x": 1078.0,
-          "y": 560.0,
+          "y": 540.0,
           "height": 655.0,
           "width": 719.0
         }
@@ -532,6 +533,7 @@
     },
     {
       "bg_color": "#FFFFFFff",
+      "animated_transition": true,
       "content": [
         {
           "type": "label",
@@ -665,6 +667,7 @@
     },
     {
       "bg_color": "#FFFFFFff",
+      "animated_transition": true,
       "content": [
         {
           "type": "label",
@@ -776,6 +779,7 @@
     },
     {
       "bg_color": "#FFFFFFFF",
+      "animated_transition": true,
       "content": [
         {
           "type": "label",
@@ -1139,6 +1143,7 @@
     },
     {
       "bg_color": "#FFFFFFff",
+      "animated_transition": true,
       "content": [
         {
           "type": "label",
@@ -1153,158 +1158,6 @@
           "font_color": "@replace/jumbo_slide_font_color",
           "line_height": "@replace/jumbo_slide_line_height",
           "letter_spacing": "@replace/jumbo_slide_letter_spacing"
-        }
-      ]
-    },
-    {
-      "bg_color": "#FFFFFFff",
-      "content": [
-        {
-          "type": "rect",
-          "x": 960.0,
-          "y": 0.0,
-          "height": 1080.0,
-          "width": 960.0,
-          "fill": "#FFFFFFff"
-        },
-        {
-          "type": "label",
-          "text": "Custom\nTypography",
-          "font_size": 72.0,
-          "font_color": "#1B364Fff",
-          "align": "centerLeft",
-          "line_height": 0.9,
-          "letter_spacing": -1.44,
-          "x": 376.0,
-          "y": 454.0,
-          "height": 186.0,
-          "width": 608.0
-        },
-        {
-          "type": "image",
-          "x": 1077.0,
-          "y": 99.0,
-          "height": 870.0,
-          "width": 402.0,
-          "file": "images/misc/fortnightly.webp"
-        },
-        {
-          "type": "image",
-          "x": 1041.0,
-          "y": 65.0,
-          "height": 936.0,
-          "width": 474.0,
-          "file": "images/misc/iphone_x_shell.webp"
-        }
-      ]
-    },
-    {
-      "bg_color": "#FFFFFFff",
-      "content": [
-        {
-          "type": "rect",
-          "x": 960.0,
-          "y": 0.0,
-          "height": 1080.0,
-          "width": 960.0,
-          "fill": "#FFFFFFff"
-        },
-        {
-          "type": "label",
-          "text": "Custom\nTypography",
-          "align": "centerLeft",
-          "font_size": 72.0,
-          "font_color": "#1B364Fff",
-          "line_height": 0.9,
-          "letter_spacing": -1.44,
-          "x": 276.0,
-          "y": 454.0,
-          "height": 186.0,
-          "width": 608.0
-        },
-        {
-          "type": "image",
-          "x": 820.0,
-          "y": 40.0,
-          "height": 1000.0,
-          "width": 1016.0,
-          "evict": true,
-          "file": "images/material/Basil with coder.gif"
-        },
-        {
-          "type": "image",
-          "x": 575.0,
-          "y": 50.0,
-          "height": 1031.0,
-          "width": 1520.0,
-          "file": "images/misc/laptop_shell.webp"
-        }
-      ]
-    },
-    {
-      "bg_color": "#FFFFFFff",
-      "content": [
-        {
-          "type": "label",
-          "x": 0.0,
-          "y": 0.0,
-          "height": 1080.0,
-          "width": 1920.0,
-          "text": "Designed for Good Design",
-          "align": "@replace/jumbo_slide_align",
-          "text_align": "@replace/jumbo_slide_text_align",
-          "font_size": "@replace/jumbo_slide_font_size",
-          "font_color": "@replace/jumbo_slide_font_color",
-          "line_height": "@replace/jumbo_slide_line_height",
-          "letter_spacing": "@replace/jumbo_slide_letter_spacing"
-        }
-      ]
-    },
-    {
-      "bg_color": "#FFFFFFff",
-      "content": [
-        {
-          "type": "label",
-          "text": "Material Components\nfor Flutter",
-          "font_size": 120.0,
-          "font_color": "#1B364Fff",
-          "line_height": 0.9,
-          "letter_spacing": -1.44,
-          "text_align": "center",
-          "x": 199.0,
-          "y": 300.0,
-          "height": 261.0,
-          "width": 1523.0
-        },
-        {
-          "type": "label",
-          "text": "material.dart",
-          "font_size": 64.0,
-          "font_color": "#0175C2ff",
-          "font_family": "RobotoMono",
-          "line_height": 0.9,
-          "letter_spacing": -1.44,
-          "align": "center",
-          "x": 172.0,
-          "y": 619.0,
-          "height": 161.0,
-          "width": 1523.0
-        }
-      ]
-    },
-    {
-      "bg_color": "#FFFFFFff",
-      "content": [
-        {
-          "type": "image",
-          "fit": "contain",
-          "x": 0.0,
-          "y": 0.0,
-          "fit": "cover",
-          "height": 1080.0,
-          "width": 1920.0,
-          "evict": true,
-          "file": "images/misc/material_full_screen.webp"
         }
       ]
     },
@@ -1452,117 +1305,6 @@
       "bg_color": "#FFFFFFff",
       "content": [
         {
-          "type": "label",
-          "x": 0.0,
-          "y": 0.0,
-          "height": 1080.0,
-          "width": 1920.0,
-          "text": "Strike Through",
-          "align": "@replace/jumbo_slide_align",
-          "text_align": "@replace/jumbo_slide_text_align",
-          "font_size": "@replace/jumbo_slide_font_size",
-          "font_color": "@replace/jumbo_slide_font_color",
-          "line_height": "@replace/jumbo_slide_line_height",
-          "letter_spacing": "@replace/jumbo_slide_letter_spacing",
-          "strike_through": true
-        }
-      ]
-    },
-    {
-      "bg_color": "#FFFFFFff",
-      "content": [
-        {
-          "type": "image",
-          "file": "images/2dimensions/2dimensionslogo.webp",
-          "x": 80.0,
-          "y": 440.0,
-          "height": 200.0,
-          "width": 890.0,
-          "animation": {
-            "curve": "easeInOut",
-            "opacity_start": 0.0,
-            "opacity_end": 1.0,
-            "duration_in_milliseconds": 1000
-          }
-        },
-        {
-          "asset": "assets/flare/Robot.nma",
-          "animation_name": "Flight",
-          "type": "nima_actor",
-          "x": 920.0,
-          "y": 0.0,
-          "height": 1080.0,
-          "width": 1150.0,
-          "animation": {
-            "curve": "easeInOut",
-            "delay_in_milliseconds": 0,
-            "opacity_start": 0.0,
-            "opacity_end": 1.0,
-            "duration_in_milliseconds": 1000
-          }
-        }
-      ]
-    },
-    {
-      "bg_color": "#FFFFFFff",
-      "content": [
-        {
-          "type": "flare_actor",
-          "asset": "assets/flare/Flare Logo.flr",
-          "animation_name": "Untitled",
-          "x": 0.0,
-          "y": 250.0,
-          "height": 500.0,
-          "width": 1920.0
-        },
-        {
-          "type": "label",
-          "text": "Available today for free",
-          "align": "centerLeft",
-          "font_size": 60.0,
-          "font_color": "#1B364Fff",
-          "line_height": 0.9,
-          "letter_spacing": -1.44,
-          "x": 80.0,
-          "y": 920.0,
-          "height": 122.0,
-          "width": 1760.0,
-          "animation": {
-            "delay_in_milliseconds": 1100,
-            "opacity_start": 0.0,
-            "opacity_end": 1.0,
-            "curve": "easeInOut",
-            "duration_in_milliseconds": 600
-          }
-        },
-        {
-          "type": "label",
-          "text": "2Dimensions.com",
-          "align": "centerRight",
-          "font_size": 60.0,
-          "font_color": "#1B364Fff",
-          "line_height": 0.9,
-          "letter_spacing": -1.44,
-          "text_align": "end",
-          "x": 80.0,
-          "y": 920.0,
-          "height": 122.0,
-          "width": 1760.0,
-          "delay_in_milliseconds": 1100,
-          "animation": {
-            "delay_in_milliseconds": 1100,
-            "opacity_start": 0.0,
-            "opacity_end": 1.0,
-            "curve": "easeInOut",
-            "duration_in_milliseconds": 600
-          }
-        }
-      ]
-    },
-    {
-      "bg_color": "#FFFFFFff",
-      "content": [
-        {
           "type": "coding_rolodex_screen",
           "x": 0.0,
           "y": 0.0,
@@ -1662,26 +1404,6 @@
       ]
     },
     {
-      "bg_color": "#FFFFFFff",
-      "content": [
-        {
-          "type": "image",
-          "x": 320.0,
-          "y": 68.0,
-          "height": 981.0,
-          "width": 1283.0,
-          "file": "images/misc/desktop.webp"
-        },
-        {
-          "type": "desktop_embedding",
-          "x": 373.0,
-          "y": 120.0,
-          "height": 663.0,
-          "width": 1178.0
-        }
-      ]
-    },
-    {
       "bg_color": "#FFFFFFFF",
       "content": [
         {
@@ -1721,6 +1443,145 @@
       ]
     },
     {
+      "bg_color": "#FFFFFFff",
+      "content": [
+        {
+          "type": "image",
+          "x": 320.0,
+          "y": 68.0,
+          "height": 981.0,
+          "width": 1283.0,
+          "file": "images/misc/desktop.webp"
+        },
+        {
+          "type": "desktop_embedding",
+          "x": 373.0,
+          "y": 120.0,
+          "height": 663.0,
+          "width": 1178.0
+        }
+      ]
+    },
+    {
+      "bg_color": "#FFFFFFFF",
+      "animated_transition": true,
+      "content": [
+        {
+          "type": "image",
+          "x": 0.0,
+          "y": 130.0,
+          "fit": "contain",
+          "height": 800.0,
+          "width": 1920.0,
+          "evict": true,
+          "file": "images/misc/flutter_khi_logo.png"
+        }
+      ]
+    },
+    {
+      "bg_color": "#FFFFFFFF",
+      "animated_transition": true,
+      "content": [
+        {
+          "type": "image",
+          "x": 0.0,
+          "y": 130.0,
+          "fit": "contain",
+          "height": 800.0,
+          "width": 1920.0,
+          "evict": true,
+          "file": "images/misc/flutter_create.png"
+        }
+      ]
+    },
+    {
+      "bg_color": "#FFFFFFFF",
+      "animated_transition": true,
+      "advancement_count": 1,
+      "content": [
+        {
+          "type": "image",
+          "x": 64.0,
+          "y": 400.0,
+          "fit": "contain",
+          "height": 300.0,
+          "width": 300.0,
+          "file": "images/misc/flutter_khi_logo.png"
+        },
+        {
+          "type": "label",
+          "text": "Flutter Pakistan App",
+          "font_size": 84.0,
+          "font_color": "@replace/blue_font_color",
+          "line_height": 0.9,
+          "letter_spacing": -1.44,
+          "align": "centerLeft",
+          "text_align": "left",
+          "x": 420.0,
+          "y": 415.0,
+          "height": 270.0,
+          "width": 691.0
+        },
+        {
+          "type": "label",
+          "advancement_step": 1,
+          "text": "Now open source",
+          "font_size": 64.0,
+          "font_color": "@replace/normal_font_color",
+          "line_height": 0.9,
+          "letter_spacing": -1.44,
+          "align": "centerLeft",
+          "text_align": "left",
+          "x": 920.0,
+          "y": 580.0,
+          "height": 270.0,
+          "width": 691.0,
+          "animation": {
+            "curve": "elasticOut",
+            "delay_in_milliseconds": 0,
+            "duration_in_milliseconds": 800,
+            "offset_x": -500
+          }
+        },
+        {
+          "type": "image",
+          "x": 500.0,
+          "y": 64.0,
+          "fit": "contain",
+          "height": 960.0,
+          "width": 1920.0,
+          "file": "images/supported_platforms/android.webp"
+        },
+        {
+          "type": "image",
+          "x": 1265.0,
+          "y": 160.0,
+          "fit": "contain",
+          "height": 780.0,
+          "width": 390.0,
+          "file": "images/misc/fl_pak_android.png"
+        },
+        {
+          "type": "image",
+          "x": 1350.0,
+          "y": 90.0,
+          "fit": "contain",
+          "height": 910.0,
+          "width": 500.0,
+          "file": "images/misc/fl_pak_ios.jpg"
+        },
+        {
+          "type": "image",
+          "x": 640.0,
+          "y": 64.0,
+          "fit": "contain",
+          "height": 960.0,
+          "width": 1920.0,
+          "file": "images/misc/iphone_x_shell.webp"
+        }
+      ]
+    },
+    {
       "bg_color": "#FFFFFFFF",
       "content": [
         {
@@ -1732,34 +1593,6 @@
           "width": 1920.0,
           "evict": true,
           "file": "images/misc/FL18-Slide-93-v01.gif"
-        }
-      ]
-    },
-    {
-      "bg_color": "#FFFFFFff",
-      "content": [
-        {
-          "type": "lottie_animation",
-          "fill": "0xFFFF0000",
-          "x": 710.0,
-          "y": 290.0,
-          "height": 500.0,
-          "width": 500.0,
-          "file": "lottie_animations/confetti.json"
-        },
-        {
-          "type": "label",
-          "x": 0.0,
-          "y": 0.0,
-          "height": 200.0,
-          "width": 1920.0,
-          "text": "Lottie Example",
-          "align": "@replace/jumbo_slide_align",
-          "text_align": "@replace/jumbo_slide_text_align",
-          "font_size": "@replace/jumbo_slide_font_size",
-          "font_color": "@replace/jumbo_slide_font_color",
-          "line_height": "@replace/jumbo_slide_line_height",
-          "letter_spacing": "@replace/jumbo_slide_letter_spacing"
         }
       ]
     },

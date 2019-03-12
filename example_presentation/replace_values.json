@@ -5,5 +5,6 @@
   "jumbo_slide_letter_spacing": 1.44,
   "jumbo_slide_align": "\"center\"",
   "jumbo_slide_text_align": "\"center\"",
-  "blue_font_color": "\"0xFF5AB4F0\""
+  "blue_font_color": "\"0xFF5AB4F0\"",
+  "normal_font_color": "\"0xFF52575B\""
 }
