@@ -551,7 +551,7 @@
         },
         {
           "type": "label",
-          "text": "Android Bundles\nPerformance and quality\nKeyboard and mouse\nIn-app purchases\n",
+          "text": "Android App Bundles\nPerformance and quality\nKeyboard and mouse\nIn-app purchases\n",
           "font_size": 60.0,
           "font_color": "#52575Bff",
           "line_height": 1.6,
@@ -1016,7 +1016,7 @@
         },
         {
           "type": "label",
-          "text": "34th",
+          "text": "20th",
           "font_size": 100.0,
           "align": "center",
           "font_color": "#FFFFFFff",
@@ -1035,7 +1035,7 @@
         },
         {
           "type": "label",
-          "text": "most popular software \n repo on GitHub",
+          "text": "most popular software \n repo on GitHub this month",
           "font_size": 54.0,
           "align": "center",
           "text_align": "center",
@@ -1404,6 +1404,26 @@
       ]
     },
     {
+      "bg_color": "#FFFFFFff",
+      "content": [
+        {
+          "type": "image",
+          "x": 320.0,
+          "y": 68.0,
+          "height": 981.0,
+          "width": 1283.0,
+          "file": "images/misc/desktop.webp"
+        },
+        {
+          "type": "desktop_embedding",
+          "x": 373.0,
+          "y": 120.0,
+          "height": 663.0,
+          "width": 1178.0
+        }
+      ]
+    },
+    {
       "bg_color": "#FFFFFFFF",
       "content": [
         {
@@ -1439,26 +1459,6 @@
           "width": 1920.0,
           "evict": true,
           "file": "images/misc/FL18_Slide_91B_v03.gif"
-        }
-      ]
-    },
-    {
-      "bg_color": "#FFFFFFff",
-      "content": [
-        {
-          "type": "image",
-          "x": 320.0,
-          "y": 68.0,
-          "height": 981.0,
-          "width": 1283.0,
-          "file": "images/misc/desktop.webp"
-        },
-        {
-          "type": "desktop_embedding",
-          "x": 373.0,
-          "y": 120.0,
-          "height": 663.0,
-          "width": 1178.0
         }
       ]
     },
@@ -1587,6 +1587,27 @@
           "animation": {
             "curve": "elasticOut",
             "delay_in_milliseconds": 0,
+            "duration_in_milliseconds": 800,
+            "offset_x": -500
+          }
+        },
+        {
+          "type": "label",
+          "advancement_step": 1,
+          "text": "github.com/aubykhan/flutter_pk",
+          "font_size": 48.0,
+          "font_color": "@replace/normal_font_color",
+          "line_height": 0.9,
+          "letter_spacing": -1.44,
+          "align": "centerLeft",
+          "text_align": "left",
+          "x": 920.0,
+          "y": 660.0,
+          "height": 270.0,
+          "width": 691.0,
+          "animation": {
+            "curve": "elasticOut",
+            "delay_in_milliseconds": 30,
             "duration_in_milliseconds": 800,
             "offset_x": -500
           }
